@@ -1,4 +1,4 @@
-# Learn to Code – Landing Page
+# World's Most Annoying Cookie Consent
 
 A simple, responsive landing page that showcases **HTML**, **CSS**, and **JavaScript** best practices with an automated build pipeline via **Vite**. It displays a tongue‑in‑cheek list of “benefits” such as “Master React in 10 minutes!” and then triggers a modal asking the visitor to consent to data usage.
 
